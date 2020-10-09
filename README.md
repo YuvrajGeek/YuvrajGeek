@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
-- 📫 How to reach me: discord: yuvraj#3442
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: WWEs are scripted.
+-  On the Earth since: 14 years
+-  How to reach me: discord: yuvraj#3442
+-  Pronouns: he/him
+-  Fun fact: WWEs are scripted.
