@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 -  How to reach me: discord: yuvraj#3442
 -  Pronouns: he/him
 -  Fun fact: WWEs are scripted.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuvrajGeek&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+Django ;)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajGeek&show_icons=true&theme=radical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
