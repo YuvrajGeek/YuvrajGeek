@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
 -  On the Earth since: 14 years
--  How to reach me: discord: yuvraj#3442
+-  How to reach me: discord: <strong>yuvraj#3442</strong>
 -  Pronouns: he/him
 -  Fun fact: WWEs are scripted.
 
