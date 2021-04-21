@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -  Fun fact: WWEs are scripted.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuvrajGeek&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajGeek&layout=compact&show_icons=true&theme=cobalt&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
