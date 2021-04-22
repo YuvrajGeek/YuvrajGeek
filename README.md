@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 -  Pronouns: he/him
 -  Fun fact: WWEs are scripted.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuvrajGeek&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajGeek&layout=compact&show_icons=true&theme=cobalt&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=YuvrajGeek&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajGeek&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5">
