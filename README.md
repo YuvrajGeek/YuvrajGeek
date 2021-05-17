@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 -  On the Earth since: 15 years
 -  How to reach me: discord: <strong>Plusk#3442</strong>
 -  Pronouns: he/him
--  Fun fact: WWEs are scripted.
+-  Fun fact: I love **Doge** <img src="https://i.gadgets360cdn.com/large/dogecoin_image_small_1618557722850.jpg" width=25>
 
 <img src="https://github-readme-stats.vercel.app/api?username=YuvrajGeek&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajGeek&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&text_color=c9d1d9&hide=HTML&title_color=50a6ff&icon_color=3572a5">
