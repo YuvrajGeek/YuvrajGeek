@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
 -  On the Earth since: 15 years
--  How to reach me: discord: <strong>Plusk#3442</strong>
+-  How to reach me: discord: <strong>plusk#1787</strong>
 -  Pronouns: he/him
 -  Fun fact: I love **Doge** <img src="https://i.gadgets360cdn.com/large/dogecoin_image_small_1618557722850.jpg" width=25>
 
